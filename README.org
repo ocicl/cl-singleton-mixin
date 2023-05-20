@@ -1,0 +1,9 @@
+* cl-singleton-mixin
+
+Cl-singleton-mixin provides singleton mixin in Common Lisp
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/hipeta/cl-singleton-mixin.git |
+| commit  | 901f834                                              |
+| systems | cl-singleton-mixin                                   |
+|---------+------------------------------------------------------|
