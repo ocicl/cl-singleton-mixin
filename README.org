@@ -7,3 +7,4 @@ Cl-singleton-mixin provides singleton mixin in Common Lisp
 | commit  | 901f834                                              |
 | systems | cl-singleton-mixin                                   |
 |---------+------------------------------------------------------|
+ 
